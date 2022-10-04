@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+.titreUn{
+    color: #ffffff;
+    border: solid 1px #535353;
+    background-color: #535353;
+    border-radius: 20px;
+}
+A{
+    color: white;
+}
